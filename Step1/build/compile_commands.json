@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sushu/code/cppProjects/cmake-3.30.0-tutorial-source/Step1/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/Tutorial.dir/tutorial.cxx.o -c /home/sushu/code/cppProjects/cmake-3.30.0-tutorial-source/Step1/tutorial.cxx",
+  "file": "/home/sushu/code/cppProjects/cmake-3.30.0-tutorial-source/Step1/tutorial.cxx"
+}
+]
